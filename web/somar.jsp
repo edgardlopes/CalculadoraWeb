@@ -1,7 +1,7 @@
 <%-- 
     Document   : somar
     Created on : 28/04/2015, 22:22:25
-    Author     : Sammy Guergachi <sguergachi at gmail.com>
+    Author     : Edgard Lopes
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
