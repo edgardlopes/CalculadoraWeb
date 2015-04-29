@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author Sammy Guergachi <sguergachi at gmail.com>
+ * @author Edgard Lopes
  */
 public class Somar extends HttpServlet {
 
